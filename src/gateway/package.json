@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@types/node": "^18.11.0"
+  },
+  "dependencies": {
+    "gql-gateway": "^1.0.10"
+  }
+}
