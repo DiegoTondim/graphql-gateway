@@ -7,7 +7,7 @@ Exposes rest api with flights
 # products api
 Exposes rest api with inflight products
 
-# Pre requisits 
+# Prerequisites 
 
 1. NodeJS + NPM
 2. .NET Core 6 SDK
